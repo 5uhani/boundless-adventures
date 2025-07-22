@@ -1,2 +1,2 @@
 # boundless-adventures
-A travel website using html and css.
+A static travel website using html and css.
