@@ -12,7 +12,7 @@ A frontend showcase project focused on the power of modern CSS. Boundless-Advent
 
  Built With
 
-    Pure CSS3 / SCSS (Specify which one you used)
+    Pure CSS3
 
     HTML5 Semantic Tags
 
